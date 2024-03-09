@@ -1,0 +1,33 @@
+# Point of Sale System (POS)
+
+This is a Point of Sale (POS) system built using Java Spring Boot for the backend, React for the frontend, and Bootstrap for styling.
+
+## Prerequisites
+
+- Java JDK 8 or higher
+- Node.js and npm
+- IDE (e.g., IntelliJ IDEA, Eclipse) for Java development
+- Text editor (e.g., Visual Studio Code) for frontend development
+
+## Getting Started
+
+Follow these instructions to set up and run the POS system locally on your machine.
+
+### Backend Setup
+
+1. Clone this repository to your local
+2. Navigate to the `backend` directory.
+3. Open the `application.properties` file located in `src/main/resources`.
+4. Update the database username and password according to your database configuration.
+5. Save the changes to the `application.properties` file.
+6. Open the project in your IDE.
+7. Build and run the Spring Boot application.
+
+### Frontend Setup
+1. Navigate to the `frontend` directory.
+2. Install dependencies using npm.
+3. Once the dependencies are installed, start the frontend server.
+4. The frontend server should start running, and you can access the POS system in your web browser at `http://localhost:3000`.
+
+## Usage
+- Upon successful setup and running both backend and frontend servers, you can start using the POS syste.
